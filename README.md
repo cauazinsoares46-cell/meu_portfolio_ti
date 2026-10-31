@@ -1,4 +1,4 @@
-# meu_portifolio_ti
+# meu_portfolio_ti
 Olá! Eu sou Cauã Soares de Oliveira 👋
 
 Estudante de Redes de Computadores
