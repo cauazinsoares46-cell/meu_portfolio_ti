@@ -3,7 +3,7 @@ Olá! Eu sou Cauã Soares de Oliveira 👋
 
 Estudante de Redes de Computadores
 
-Sou estudante do curso Técnico de Nível Médio em Redes de Computadores, com interesse nas áreas de Suporte Técnico, Infraestrutura de TI e Tecnologia da Informação.
+Sou estudante do curso Técnico de Nível Médio em Redes de Computadores, com interesse nas áreas de Analista Suporte Técnico, Analista de Infraestrutura de TI e Tecnologia da Informação.
 
 Durante minha formação, venho adquirindo conhecimentos em diferentes áreas da tecnologia, desenvolvendo habilidades por meio de estudos e atividades práticas.
 
