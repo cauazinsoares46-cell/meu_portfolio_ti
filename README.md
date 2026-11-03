@@ -88,7 +88,7 @@ Neste GitHub, pretendo compartilhar atividades, projetos e estudos desenvolvidos
 
 📫 Contato
 
-- LinkedIn: [Adicione seu perfil]
+- LinkedIn: https://www.linkedin.com/in/cauã-soares-0026ba390?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - E-mail: Caua.soares.contato01@gmail.com 
 
 ---
