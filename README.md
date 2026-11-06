@@ -96,6 +96,6 @@ Neste GitHub, pretendo compartilhar atividades, projetos e estudos desenvolvidos
 Em constante aprendizado e desenvolvimento na área de Analista de cybersegurança junior.
 
 
-##Stack
+## Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,Linux,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,linux)](https://skillicons.dev)
